@@ -7,7 +7,8 @@
 -->
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
 	<head>
-		<css src="css/owl_carousel/owl.theme.default.css" />
-		<css src="css/owl_carousel/owl.carousel.min.css" />
+		<!-- <css  type="text/css" src="AHT_Testimonial/css/owl_carousel/owl.theme.default.css" />
+		<css  type="text/css" src="AHT_Testimonial/css/owl_carousel/owl.carousel.min.css" /> -->
+		<!-- <script src="js/owl.carousel.js"/> -->
 	</head>
 </page>

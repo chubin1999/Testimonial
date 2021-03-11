@@ -1,6 +1,6 @@
 var config = {
 	paths: {            
-		'owlcarousel': "js/owl.carousel"
+		'owlcarousel':'AHT_Testimonial/js/owl.carousel'
 	},   
 	shim: {
 		'owlcarousel': {
